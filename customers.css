@@ -1,0 +1,40 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #af3c20;
+}
+
+.bg-light{
+    background-color:burlywood!important;
+}
+
+.navbar-brand{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 1.5rem;
+    color: #204a7c!important;
+}
+.nav-link{
+    color: #5f6368!important;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.nav-link:hover{
+    background-color: #a30c85;
+}
+/* navbar css ends here  */
+
+.heading-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(201, 18, 36)!important;
+    color: rgb(23, 22, 22)!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color:#a30c85!important;
+}
