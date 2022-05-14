@@ -1,6 +1,7 @@
 body{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: #af3c20;
+    background-image: url('https://wallpaperbat.com/img/359285-open-banking-psd2-gt-software-gt-software.jpg')!important;
 }
 
 .bg-light{
@@ -24,6 +25,7 @@ body{
 
 .heading-info{
     padding: 2rem 5rem;
+    color: white
 }
 
 .btn-info{
