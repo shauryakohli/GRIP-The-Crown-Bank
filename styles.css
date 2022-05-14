@@ -6,6 +6,7 @@ html{
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color:  #1be3d6;
+    background-image: url('https://wallpaperaccess.com/full/2311977.jpg');
 }
 
 #loading{
@@ -16,7 +17,7 @@ body{
     z-index: 99999;
 }
 .bg-light{
-    background-color: #c1bb18!important;
+    background-color: #90e133!important;
 }
 
 .navbar-brand{
